@@ -13,3 +13,5 @@ web3.eth.getBalance(address,(err, wei)=>{
     let balance = web3.utils.fromWei(wei, 'ether')
     console.log("Balance" ,balance);
 });
+
+//Updated
