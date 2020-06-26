@@ -62,3 +62,4 @@ contract.methods.doSomeWork().call( function(err, result){
     console.log("Work =", result)
 });
 
+//Updated
